@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+logging:
+  level:
+    com.jrbrayjr.rabbit.listener.rabbitlistener.config: DEBUG
+    com.jrbrayjr.rabbit.listener.rabbitlistener.listners: DEBUG
